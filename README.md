@@ -86,7 +86,7 @@ The findings support the need for extended support timelines, inter-agency coord
 
 **Marisol Ramos**  
 Technical Writer · AI Safety & Policy · Data Analytics Fellow  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Tableau Public](https://public.tableau.com/app/profile/your-link-here)
+[LinkedIn](https://www.linkedin.com/in/marisol-ramos-67944b66/) | [Tableau Public](https://public.tableau.com/views/Oakland_STG1_2_3_Subsidized_ChildCare_payments/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
