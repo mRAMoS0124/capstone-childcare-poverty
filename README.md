@@ -55,8 +55,8 @@ The findings support the need for extended support timelines, inter-agency coord
 
 | File | Description |
 |------|-------------|
-| [📄 Final Report (Word Doc)](./Capstone%20Project%20Report.docx) | In-depth analysis with sources, data, and recommendations |
-| [📊 Slide Deck (Google Slides or PPTX)](./Mentor%20Me%20Collective%20x%20GWG%20Capstone%20Project%20-%20Marisol%20Ramos.pptx) | Visual presentation used for capstone defense |
+| [📄 Final Report (Google Doc)](https://docs.google.com/document/d/1x1gQjA9VSeqhEetKaHEudThIjcg0LeNWZWbfc647STQ/edit?usp=sharing) | In-depth analysis with sources, data, and recommendations |
+| [📊 Slide Deck (Google Slides or PPTX)](https://docs.google.com/presentation/d/16kdvRF1blfEnaMpZpSSOaqUy1R2Rcxp3PVNLvbuzpew/edit?usp=sharing) | Visual presentation used for capstone defense |
 | [📈 Tableau Dashboard](https://img.shields.io/badge/Made%20with-Tableau-blue.svg)](https://public.tableau.com/views/Oakland_STG1_2_3_Subsidized_ChildCare_payments/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Interactive visuals and data story |
 | [📒 Google Sheets Data Workbook](https://img.shields.io/badge/Google%20Sheets-Data%20Source-brightgreen.svg)](https://docs.google.com/spreadsheets/d/1bBkXbFK7_P-T2TQrMZckFG7KlpokhUeOyGpW7h2bWUA/edit?usp=sharing) | Data cleaning, breakdowns, and agency comparisons |
 | [📘 Kaggle Notebook](https://www.kaggle.com/code/marisolramos711/notebook6a7e4ccfe6) | Any coding analysis (if applicable) |
