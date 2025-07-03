@@ -90,10 +90,4 @@ Technical Writer · AI Safety & Policy · Data Analytics Fellow
 
 ---
 
-## 💬 Support or Feedback?
-
-If you found this helpful or have ideas for collaboration, feel free to [reach out](mailto:youremail@example.com) or tip me via [Venmo](https://venmo.com/u/yourvenmolink) ✨
-
----
-
 
